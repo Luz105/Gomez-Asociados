@@ -1,3 +1,5 @@
+
+
 /* General Styles */
 body {
     font-family: 'Roboto', sans-serif;
@@ -43,7 +45,7 @@ body {
 }
 
 .menu a:hover {
-    color: #eef0ed;
+    color: #4CAF50;
     text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
 }
 
@@ -404,7 +406,7 @@ footer {
 }
 
 .menu a:hover {
-    color: #ff9a9e;
+    color: #eef0ed;
     transform: scale(1.1);
 }
 
